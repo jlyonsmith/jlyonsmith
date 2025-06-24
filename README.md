@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jlyonsmith
-- 👀 I’m interested in Rust, Flutter, React & Deno projects
-- 🌱 I’m currently learning the [Flame](https://docs.flame-engine.org/1.5.0/index.html) framework
-- 💞️ I'm happy to collaborate a little on the open source projects that I have used
+- 👀 I mostly program in [Rust](https://www.rust-lang.org/), [Dart](https://dart.dev/) and [Typescript](https://www.typescriptlang.org/) languages
+- 🚧 The frameworks I reach for most often are [Flutter](https://flutter.dev/), [React](https://react.dev/) and [Next.js](https://nextjs.org/)
+- 💔 I think [Deno](https://deno.com/) is an underrated tool
+- 🌱 I’m currently learning the [NATS](https://nats.io/) messaging system
+- 💞️ I'm happy to collaborate a little on the open source projects that I use
 - 📫 Reach me at [lyon-smith.org](https://lyon-smith.org)
 
 <!---
